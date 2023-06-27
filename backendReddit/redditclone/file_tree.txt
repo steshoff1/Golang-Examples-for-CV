@@ -1,0 +1,35 @@
+.
+├── cmd
+│   └── redditclone
+│       └── main.go
+├── go.mod
+├── go.sum
+├── internal
+├── pkg
+│   ├── comment
+│   │   └── comment.go
+│   ├── handlers
+│   │   └── handlers.go
+│   ├── myerrors
+│   │   └── myerrors.go
+│   ├── other
+│   │   └── other.go
+│   ├── post
+│   │   └── post.go
+│   ├── session
+│   │   ├── jwt.go
+│   │   └── sessionManaher.go
+│   ├── user
+│   │   └── user.go
+│   └── votes
+│       └── votes.go
+└── static
+    ├── css
+    │   └── main.74225161.chunk.css
+    ├── html
+    │   └── index.html
+    └── js
+        ├── 2.d59deea0.chunk.js
+        └── main.32ebaf54.chunk.js
+
+16 directories, 16 files
