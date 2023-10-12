@@ -1,0 +1,58 @@
+.
+├── _sql
+│   └── users.sql
+├── cmd
+│   └── redditclone
+│       └── main.go
+├── docker-compose.yml
+├── file_tree.txt
+├── go.mod
+├── go.sum
+├── internal
+├── pkg
+│   ├── comment
+│   │   └── comment.go
+│   ├── handlers
+│   │   ├── cover.html
+│   │   ├── cover.out
+│   │   ├── handlers.go
+│   │   └── handlers_test.go
+│   ├── middleware
+│   │   └── middleware.go
+│   ├── myerrors
+│   │   └── myerrors.go
+│   ├── other
+│   │   └── other.go
+│   ├── post
+│   │   ├── cover.html
+│   │   ├── cover.out
+│   │   ├── db_interface.go
+│   │   ├── mocks
+│   │   │   └── CollectionHelper.go
+│   │   ├── post.go
+│   │   ├── posts_test.go
+│   │   └── repo_mocks
+│   │       └── PostsInterface.go
+│   ├── session
+│   │   ├── cover.html
+│   │   ├── cover.out
+│   │   ├── jwt.go
+│   │   ├── mocks
+│   │   │   └── UsersRepoInterface.go
+│   │   ├── sessionManaher.go
+│   │   └── users_test.go
+│   ├── user
+│   │   └── user.go
+│   └── votes
+│       └── votes.go
+└── static
+    ├── css
+    │   └── main.74225161.chunk.css
+    ├── html
+    │   └── index.html
+    └── js
+        ├── 2.d59deea0.chunk.js
+        └── main.32ebaf54.chunk.js
+
+21 directories, 33 files
+
